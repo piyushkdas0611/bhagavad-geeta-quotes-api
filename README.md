@@ -37,4 +37,4 @@ The Bhagavad Gita quotes data is stored in the bhagavadGitaQuotes array in the i
 Contributions are welcome! If you have additional Bhagavad Gita quotes to share, feel free to submit a pull request.
 
 # License
-This project is licensed under the Apache - see the LICENSE.md file for details.
+This project is licensed under the Apache License - see the LICENSE.md file for details.
