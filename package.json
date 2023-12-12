@@ -1,0 +1,24 @@
+{
+  "name": "bhagavad-geeta-quotes-api",
+  "version": "1.0.0",
+  "description": "An api that generates a random Bhagavad Geeta quote",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushkdas0611/bhagavad-geeta-quotes-api.git"
+  },
+  "author": "Piyush J. Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushkdas0611/bhagavad-geeta-quotes-api/issues"
+  },
+  "homepage": "https://github.com/piyushkdas0611/bhagavad-geeta-quotes-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
